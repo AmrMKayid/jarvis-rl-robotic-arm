@@ -7,7 +7,7 @@ class ArmEnv(object):
     viewer = None
     dt = 0.1
     action_bound = [-1, 1]
-    goal = {'x': 100., 'y': 100., 'l': 40}
+    goal = {'x': 75., 'y': 75., 'l': 40}
     state_dim = 2
     action_dim = 2
 
