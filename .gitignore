@@ -86,6 +86,8 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+#--------------- VsCode ---------------#
+.vscode/
 
 #--------------- Python ---------------#
 
